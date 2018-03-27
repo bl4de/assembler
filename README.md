@@ -1,4 +1,4 @@
-### assembler
+### My Assembly language learning repository 
 
 My Assembly learning code, examples, shellcodes, exploits etc.
 Nothing fancy, nothing production-ready, no guarantee of working :D
